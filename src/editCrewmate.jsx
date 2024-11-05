@@ -83,7 +83,7 @@ const EditCrewmate = () => {
           </label>
           <div>
             <h3>Select Color:</h3>
-            {['Red', 'Green', 'Blue', 'Purple', 'Yellow', 'Orange', 'Pink', 'Rainbow'].map((color) => (
+            {['Red', 'Green', 'Blue', 'Purple', 'Yellow', 'Orange', 'Pink'].map((color) => (
               <label key={color}>
                 <input type="radio" name="color" value={color} checked={formValues.color === color} onChange={handleColorChange}/>
                 {color}

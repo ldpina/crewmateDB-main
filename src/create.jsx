@@ -129,16 +129,6 @@ const Create = () => {
               onChange={(e) => setColor(e.target.value)}
             />Pink
           </li>
-          <li>
-            <input
-              id="Rainbow"
-              className="color"
-              type="radio"
-              value="Rainbow"
-              checked={color === 'Rainbow'}
-              onChange={(e) => setColor(e.target.value)}
-            />Rainbow
-          </li>
         </div>
       </form>
       <button onClick={handleSubmit}>Create Crewmate</button>
