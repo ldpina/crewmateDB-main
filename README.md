@@ -42,7 +42,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Took me so long on how to learn how to make a highlighted shadow for a crewmates color but I was able to do it! Also took me a while to try to set up the databases and how to change their current attributes
+Some Challenges I was faced during this project was that it took me so long on how to learn how to make a highlighted shadow for a crewmates color but I was able to do it! Also took me a while to try to set up the databases and how to change their current attributes
 
 ## License
 
